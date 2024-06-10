@@ -185,4 +185,6 @@ docker rmi <image_name>
 
 ### reference
 
-- (Dockerfile reference)[https://docs.docker.com/reference/dockerfile/]
+- Dockerfile reference : https://docs.docker.com/reference/dockerfile/
+- .dockerignore file : https://docs.docker.com/reference/dockerfile/#dockerignore-file
+- compose-file : https://docs.docker.com/compose/compose-file/
